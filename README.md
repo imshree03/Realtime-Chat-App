@@ -6,6 +6,10 @@
 
 🎥 Check out the [(https://github.com/imshree03/Realtime-chat-app/assets/107460907/79a798bc-fc8a-48cc-86ad-580534a2a462)] to see Snappy in action!
 
+<video width="320" height="240" controls>
+  <source src="https://github.com/imshree03/Realtime-chat-app/assets/107460907/79a798bc-fc8a-48cc-86ad-580534a2a462" type="video/mp4">
+</video>
+
 ## Features
 
 ✨ **Realtime Chat:** Experience seamless and instant messaging with real-time updates.
