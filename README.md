@@ -7,8 +7,8 @@
 🎥 Check out the [(https://github.com/imshree03/Realtime-chat-app/assets/107460907/79a798bc-fc8a-48cc-86ad-580534a2a462)] to see Snappy in action!
 
 ## Embedded HTML
+<video width="630" height="300" src="https://github.com/imshree03/Realtime-chat-app/assets/107460907/79a798bc-fc8a-48cc-86ad-580534a2a462.mp4"></video>
 
-<iframe width="560" height="315" src="[(https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4)]" frameborder="0" allowfullscreen></iframe>
 
 ## Features
 
