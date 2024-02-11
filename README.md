@@ -4,7 +4,7 @@
 
 ## Demo Video
 
-🎥 Check out the [demo video]([link-to-your-demo-video](https://github.com/imshree03/Realtime-chat-app/assets/107460907/79a798bc-fc8a-48cc-86ad-580534a2a462)) to see Snappy in action!
+🎥 Check out the [demo video]([(https://github.com/imshree03/Realtime-chat-app/assets/107460907/79a798bc-fc8a-48cc-86ad-580534a2a462)]) to see Snappy in action!
 
 ## Features
 
