@@ -4,7 +4,7 @@
 
 ## Demo Video
 
-🎥 Check out the [demo video]([(https://github.com/imshree03/Realtime-chat-app/assets/107460907/79a798bc-fc8a-48cc-86ad-580534a2a462)]) to see Snappy in action!
+🎥 Check out the [(https://github.com/imshree03/Realtime-chat-app/assets/107460907/79a798bc-fc8a-48cc-86ad-580534a2a462)] to see Snappy in action!
 
 ## Features
 
@@ -39,13 +39,16 @@ Make sure you have the following installed:
    ```bash
    npm install
 
-Running the Application
-Start the server:
-bash
-Copy code
-npm start
+## Running the Application
+
+1. Start the server:
+   ```bash
+   npm start
+
+   
 Open your browser and go to http://localhost:3000 to use Snappy.
-Contributing
+
 🤝 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest new features and improvements.
 Acknowledgments
-🙌 Special thanks to our collaborator @koolkishan for his valuable youtube video.
+
+🙌 Special thanks to @koolkishan for his valuable youtube video.
